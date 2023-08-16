@@ -1,0 +1,24 @@
+body{
+    background-image: url("backimage.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/* p{
+    font-size: 15px;
+    color: maroon;
+} */
+h1{
+    font-size: 16px;
+}
+.one{
+    font-size: 60px;
+    color: green;
+}
+#link{
+    text-decoration: none;
+}
+a:hover{
+    font-size: 128px;
+    color: red;
+}

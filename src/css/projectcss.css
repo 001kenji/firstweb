@@ -1,0 +1,123 @@
+body{
+    background-color: black;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+h1{
+    color:green;
+    font-size: 3vw;;
+    text-align: center;
+    padding-top: 0px;
+    margin-top:0%;
+    
+}
+
+h2{
+    font-size:  28px;
+    color:red;
+    margin:0px;
+    padding:0%;
+    text-align: left;
+    float:left;
+}
+#list{
+    font-size: 28px;
+    border: 100px solid powderblue;
+    border-color: black;
+    color:orangered;
+    padding:0%;
+    margin:opx;
+    margin-top: 0%;
+    margin: 0%;
+}
+ol{
+    color:black;
+    border: solid powderblue;
+    border-color: darkolivegreen;
+    background-image: url(food.jpg);
+    border-image-repeat:norepeat;
+    border-image-slice: fill;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 21px;
+    border-width: 0px;
+    width: 70%;
+    height: 20%;
+    margin:0%;padding:0%;
+color:gold;
+}
+#nut{
+color:white;
+
+}
+p{
+    color:white;
+    font-size: 1.7vw;
+}
+#image{
+    float:right;
+    width: 10%;
+    height: 10%;
+}
+#image:hover{
+
+}
+ul{
+    float:left;
+    COLOR:red;
+   background-color:black;
+    border-color: darkgrey;
+    padding:0px;
+    margin:0%;
+    border: 1px solid brown;
+    width: 40%;
+    height: 35%;
+  font-size: 1.5vw;
+}
+li{
+    float: right;
+    border-color: darkgrey;
+    margin: 20PX;
+
+}
+li :hover{
+    background-color:grey;
+    font-size: 18px;
+    color:darkblue;
+}
+#menu{
+    background-image: url(nuts.jpg);
+    width: 10%;
+    height: 20%;
+    text-align: justify;
+    text-indent: 30%;
+}
+#menu:hover{
+    color:green;
+    font-size: 18px;
+}
+#image :hover{
+width: 190px;
+height: 130px;
+}
+strong, small{
+    color: gold;
+}
+dt{
+    padding: 7px;
+}
+dt :hover{
+color:white;
+}
+a{
+    text-decoration: none;
+    color:red;
+}
+iframe{
+    width: 80%;
+    height:auto;
+    border-color: black;
+    margin:0%;
+    padding:unset;
+}

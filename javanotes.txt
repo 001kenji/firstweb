@@ -1,0 +1,20 @@
+JAVA NOTES->
+Initerface - is a collection of method names, without actual definitions, that indicate that a calls has a set of behaviouts in addition to the class getss from its superclasses
+packges - in java are a way of grouping together related classes and interfaces.packages enable modular groups of classes to be available only if they are needed and eliminate potential conflicts btween class names in different groups of classes.
+css notes->
+to run css in html
+enter the css codes inside the caly braces of :
+<style>
+p or h1 or body or {color:blue;
+font-tyle:bellMT;
+font-size:1lpx}
+if you want to butify a spesific one use # followed by the id name eg
+#sec{
+/* this is for .getelementbyid("sec")
+}
+*{
+/* to select all the elememts on the web page */ }
+.class{
+/* to select all the elements with the begining tag class */ }
+
+</style>

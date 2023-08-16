@@ -1,0 +1,47 @@
+fieldset{
+    color:black;
+    font-family: 'Times New Roman';
+    margin-left: 20%;
+    margin-right: 50%;
+    margin-top: 20%;
+    border-color: darkgrey;
+    width: 60%;
+    height: 50%;
+    background-color:aliceblue;
+    padding: 0%;
+}
+#user{
+    text-align: center;
+    font-family: 'Segoe UI';
+    color:black;
+    font-style: italic;
+
+}
+#pass{
+    font-style: italic;
+    text-align: center;
+    font-family: 'Segoe UI';
+    color:black;
+    
+}
+.text{
+color:black;
+background-color: lightgray;
+border-color: black;
+}
+body{
+   
+}
+.text :hover{
+    
+}
+fieldset :hover{
+    background-color:azure;
+    border-color: blueviolet;
+}
+footer{
+    font-style: italic;
+
+    text-align: right;
+    
+}
